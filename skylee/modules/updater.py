@@ -1,3 +1,4 @@
+# Ported from userbots
 import asyncio
 import functools
 import os
